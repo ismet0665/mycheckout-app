@@ -1,3 +1,4 @@
+![check](https://user-images.githubusercontent.com/118618011/235323994-6fa0f695-dabe-47aa-ad5b-93fc56ba5746.gif)
 
 # Getting Started with Create React App
 
